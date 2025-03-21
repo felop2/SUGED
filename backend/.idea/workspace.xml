@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a764d8d-d531-453f-ac0f-8b784a95d261" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/controllers/authController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/authRoutes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/reservaController.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/reservaController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/Reserva.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/Reserva.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/reservaRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/reservaRoutes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/espacioDeportivoController.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/espacioDeportivoController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/EspacioDeportivo.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/EspacioDeportivo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/espacioDeportivoRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/espacioDeportivoRoutes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,21 +34,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/dafen/OneDrive/Documentos/GitHub/SUGED/backend",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dafen/OneDrive/Documentos/GitHub/SUGED/backend&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -68,6 +66,7 @@
       <updated>1741972384551</updated>
       <workItem from="1741972385070" duration="108000" />
       <workItem from="1742575023457" duration="3544000" />
+      <workItem from="1742580092910" duration="1656000" />
     </task>
     <servers />
   </component>
