@@ -1,8 +1,7 @@
 const router = require('express').Router();
 const reservaController = require('../controllers/reservaController');
 
-router.get('/', reservaController.obtenerReservas);
+// Ruta para crear una nueva reserva
 router.post('/', reservaController.crearReserva);
-router.delete('/:id', reservaController.eliminarReserva);
 
 module.exports = router;
